@@ -1,2 +1,1 @@
-# DefiBackend
-Defi Stats Switzerland Backend Project
+# defi_stats_backend
